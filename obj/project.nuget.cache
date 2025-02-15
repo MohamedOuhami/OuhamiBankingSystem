@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rWmSebkbLM=",
+  "success": true,
+  "projectFilePath": "/home/v01d/Documents/Projects/OuhamiBankingSystem/OuhamiBankingSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/v01d/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/v01d/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/v01d/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
