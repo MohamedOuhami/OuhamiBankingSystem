@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OuhamiBankingSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60e996eabca800314558ffa33244a6148f38d354")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b21b91bc3e25ea27ada2f916a77e098acf7667ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("OuhamiBankingSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OuhamiBankingSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
